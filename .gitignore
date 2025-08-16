@@ -1,5 +1,9 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# This file is used to specify files and directories that should be ignored by Git.
+
+# project files
+app
 # dependencies
 node_modules/
 
