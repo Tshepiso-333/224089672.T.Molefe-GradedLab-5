@@ -4,6 +4,7 @@
 
 # project files
 app
+src
 # dependencies
 node_modules/
 src
