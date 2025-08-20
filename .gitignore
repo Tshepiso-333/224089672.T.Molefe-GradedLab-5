@@ -6,7 +6,7 @@
 app
 # dependencies
 node_modules/
-
+src
 # Expo
 .expo/
 dist/
