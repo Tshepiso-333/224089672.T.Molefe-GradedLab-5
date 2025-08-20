@@ -4,7 +4,7 @@
 
 # project files
 app
-src
+src/
 # dependencies
 node_modules/
 # Expo
